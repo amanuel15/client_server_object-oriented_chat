@@ -1,0 +1,5 @@
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojResolveAssemblyReference.cache

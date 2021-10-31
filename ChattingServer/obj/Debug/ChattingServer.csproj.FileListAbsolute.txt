@@ -1,0 +1,8 @@
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingServer\bin\Debug\ChattingServer.exe.config
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingServer\bin\Debug\ChattingServer.exe
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingServer\bin\Debug\ChattingServer.pdb
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingServer\bin\Debug\ChattingInterfaces.dll
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingServer\obj\Debug\ChattingServer.exe
+C:\Users\MSI\documents\visual studio 2015\Projects\DayTimeExtension\DayTimeExtensionPractice\ChattingServer\obj\Debug\ChattingServer.pdb
